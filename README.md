@@ -21,21 +21,21 @@ GreenBasket/
 ├── logo.webp          # Logo image
 ├── image1.webp        # Product-related or branding image
 
-🧩 Features
+## 🧩 Features
 
-✅ Clean and responsive design
+ * ✅ Clean and responsive design
 
-🔍 Integrated search bar in the header
+ * 🔍 Integrated search bar in the header
 
-🛍️ Add to cart and checkout UI
+ * 🛍️ Add to cart and checkout UI
 
-🔐 User login page with form validation
+ * 🔐 User login page with form validation
 
-📞 Contact form and About Us information
+ * 📞 Contact form and About Us information
 
-♻️ Eco-friendly branding and theme
+ * ♻️ Eco-friendly branding and theme
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 
