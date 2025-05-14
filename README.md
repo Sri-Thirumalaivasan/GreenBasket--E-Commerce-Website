@@ -4,8 +4,7 @@ GreenBasket is an eco-friendly-themed e-commerce website offering a seamless sho
 
 ## 🌐 Live Preview
 
-> Add your deployed website link here (e.g., GitHub Pages, Vercel, Netlify)
-[Live URL](https://greenbasket-24.netlify.app/)
+> [Live URL](https://greenbasket-24.netlify.app/)
 ---
 
 ## 📁 Project Structure
